@@ -1,0 +1,30 @@
+{
+  "name": "dash",
+  "version": "1.0.0",
+  "description": "myDash",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysonama/myDash.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Jayson O. De los Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaysonama/myDash/issues"
+  },
+  "homepage": "https://github.com/jaysonama/myDash#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12"
+  }
+}
